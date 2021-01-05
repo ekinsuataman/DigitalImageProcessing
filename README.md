@@ -1,6 +1,7 @@
 # DigitalImageProcessing
  
-Instructions
+# Instructions
+
 Coverage: You will practice image enhancement techniques in the spatial and frequency domain. You
 may need several of the methods including point processing operations, histogram
 processing, spatial filtering and noise removal.
